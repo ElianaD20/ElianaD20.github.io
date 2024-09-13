@@ -22,3 +22,6 @@ I am very excited about the upcoming projects that we will collaborate on and wo
 + Project 1
 + Project 2
 + Project 3
+
+### Contact Me
+elalon@my365.bellevue.edu
