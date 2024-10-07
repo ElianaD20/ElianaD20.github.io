@@ -1,7 +1,7 @@
 # **Eliana Alon's Data Science Portfolio**
 *DSC 450: Applied Data Science*
 
-### About Me
+### About Me - [About Me](about.md) 
 I am a hardworking data science student at Bellevue University, intending to graduate in November of 2024. I reside in NY and throughout this journey, I have learned many skills, including but not limited to:
 - Programming Languages
 - Data Wrangling & Cleaning
