@@ -6,7 +6,8 @@ This project analyzes Walmart's customer satisfaction levels in the electronics 
 ## Tools Used
 - **Python Libraries**: Pandas, VADER Sentiment Analysis, Matplotlib
 - **Data Visualization**: Word cloud, sentiment distribution charts
-- **Data Source**: [Data.world]([https://data.world](https://data.world/login?next=%2Fpromptcloud%2Fwalmart-product-listing-data-2020%2Fworkspace%2Ffile%3Ffilename%3Dmarketing_sample_for_walmart_com-walmart_com_product_reviews__20200101_20200331.zip)) (CSV format)
+- **Data Source**: [Data.world](https://data.world/login?next=%2Fpromptcloud%2Fwalmart-product-listing-data-2020%2Fworkspace%2Ffile%3Ffilename%3Dmarketing_sample_for_walmart_com-walmart_com_product_reviews__20200101_20200331.zip) (CSV format)
+
 
 ## Key Findings
 1. **Sentiment Distribution**: Approximately 80% of reviews reflect positive sentiments, suggesting an overall favorable perception of Walmart’s electronics and home entertainment offerings.
