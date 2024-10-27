@@ -19,7 +19,7 @@ I am a hardworking data science student at Bellevue University, intending to gra
 I am very excited about the upcoming projects that we will collaborate on and work on as a team to complete.
 
 ### Upcoming Projects
-+ Project 1: Walmart's Customer Satisfaction in Home Furnishings [Project 1](project1.md)
++ [Project 1](project1.md): Walmart's Customer Satisfaction in Home Furnishings
 + Project 2: Survey Analysis of Student Satisfaction in Online Learning
 + Project 3: TBD
 
