@@ -20,17 +20,17 @@ This project analyzes Walmart's customer satisfaction levels in the electronics 
 ### 1. Sentiment Distribution Chart
 This chart shows the percentage of positive, neutral, and negative sentiments among reviews.
 
-![Sentiment Distribution Chart](path/to/sentiment-distribution-chart.png)
+![Sentiment Distribution Chart](images/project1/Sentiment%20Distribution.png)
 
 ### 2. Top Keywords Word Cloud
 A visual representation of the most frequently mentioned words in positive and negative reviews, highlighting recurring themes like “easy,” “quality,” “battery,” and “screen.”
 
-![Top Keywords Word Cloud](path/to/top-keywords-word-cloud.png)
+![Top Keywords Word Cloud](images/project1/Top%2030%20Word%20Sentiments.png)
 
 ### 3. Most Popular Products Chart
 A bar chart displaying the ratings and popularity of top products, including Roku and RCA items, based on review frequency.
 
-![Most Popular Products Chart](path/to/most-popular-products-chart.png)
+![Most Popular Products Chart](images/project1/Most%20Popular%20Ratings.png)
 
 ## Link to Code
 The code for this project can be found in the following GitHub repository:
