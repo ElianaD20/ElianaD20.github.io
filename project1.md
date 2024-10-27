@@ -33,5 +33,5 @@ A bar chart displaying the ratings and popularity of top products, including Rok
 ![Most Popular Products Chart](images/project1/Most%20Popular%20Ratings.png)
 
 ## Link to Code
-The code for this project can be found in the following GitHub repository:
-[GitHub Repository](https://colab.research.google.com/drive/1JfcqwvXv0OQBUN5pslQuIQuK7qy8I3ib#scrollTo=h-JKFJ4r1rOh)
+The code for this project can be found in the following Google Colab space:
+[Google Colab Link](https://colab.research.google.com/drive/1JfcqwvXv0OQBUN5pslQuIQuK7qy8I3ib#scrollTo=h-JKFJ4r1rOh)
