@@ -15,18 +15,23 @@ With the increasing shift to online learning, students face unique challenges an
 ### How Students Are Adapting to Online Learning
 
 - **Overall Adaptation Levels:** Only 7.6% of participants are highly adapted, while 48.1% show moderate adaptation, and 44.3% struggle significantly.
+
 ![Adaptivity Level Pie Chart](images/project2/Pie%20Chart%20of%20Adaptivity%20Levels.png)
+
 - **IT vs. Non-IT Students:** IT students show slightly better adaptability, with an average adaptability score of 1.798 compared to 1.530 for non-IT students, though this difference is not statistically significant.
+  
 ![Bar Chart of Adaptivity vs. IT Student](images/project2/Bar%20Chart%20of%20Adaptivity%20vs.%20IT%20Student.png)
 
 ### Adaptivity by Level of Education
 
 University students show the highest adaptability rates, likely due to greater exposure to technology and self-directed learning.
+
 ![Bar Chart of Adaptivity vs. Education Level](images/project2/Bar%20Chart%20of%20Adaptivity%20vs.%20Education%20Level.png)
 
 ### Institution Type and Adaptivity
 
 Non-government institutions tend to foster higher adaptability scores (1.768) compared to government institutions (1.455), suggesting they may provide better support for online learning.
+
 ![Bar Chart of Adaptivity vs. Institution Type](images/project2/Bar%20Chart%20of%20Adaptivity%20vs.%20Institution%20Type.png)
 
 ### Demographic Factors and Adaptivity
