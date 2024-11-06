@@ -21,7 +21,7 @@ I am very excited about the upcoming projects that we will collaborate on and wo
 ### Upcoming Projects
 + [Project 1](project1.md): Walmart's Customer Satisfaction in Home Furnishings
 + [Project 2](project2.md): Survey Analysis of Student Satisfaction in Online Learning
-+ Project 3: TBD
++ [Project 3](project3.md): Predicting Employee Attrition with HR Analytics
 
 ### Contact Me
 elalon@my365.bellevue.edu
