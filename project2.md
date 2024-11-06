@@ -1,67 +1,37 @@
 # Survey Analysis of Student Satisfaction in Online Learning
 
-## Introduction
+## Overview
+This project analyzes student satisfaction levels in online learning, aiming to uncover the factors influencing adaptation to online education. By examining survey data from 1,205 students, the project investigates the impact of demographics, access to technology, and institutional support on student adaptability. The findings are intended to inform strategies that can enhance the online learning experience, providing actionable insights for educational institutions and policymakers.
 
-With the increasing shift to online learning, students face unique challenges and opportunities in adapting to this new educational landscape. This study explores the factors influencing student adaptability, particularly focusing on demographics and access to technology. A survey of 1,205 students was analyzed using exploratory data analysis and multiple linear regression to understand how variables like gender, education level, institution type, and internet connectivity impact student satisfaction. Our goal is to provide insights that can help institutions and policymakers enhance the online learning experience.
+## Tools Used
+- **Python Libraries**: Pandas, Matplotlib, Seaborn, SciPy
+- **Data Visualization**: Pie charts, bar charts
+- **Data Source**: [Survey Data](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-
+education) (CSV format)
 
-## Business Problem/Hypothesis
+## Key Findings
+1. **Adaptability Distribution**: The majority of students face challenges in adapting to online learning, with only 7.6% reporting high adaptation levels.
+2. **IT vs. Non-IT Students**: IT students exhibit slightly better adaptability, but the difference is not statistically significant.
+3. **Institution Type Impact**: Students from non-government institutions report higher adaptability scores, suggesting that these institutions may offer more effective support for online learning.
+4. **Demographic Influences**: Financial condition, network reliability, and use of self-directed learning management systems are positively associated with better adaptability.
 
-**Problem Statement:** Are students adapting to online learning, or are they struggling? Identifying factors that influence adaptability will allow educational institutions to design targeted interventions to improve the online learning experience.
+## Visuals
 
-**Hypothesis:** We hypothesize that online learning presents a significant struggle and learning curve compared to in-person learning.
-
-## Methods/Analysis
-
-### How Students Are Adapting to Online Learning
-
-- **Overall Adaptation Levels:** Only 7.6% of participants are highly adapted, while 48.1% show moderate adaptation, and 44.3% struggle significantly.
+### 1. Adaptivity Level Distribution
+This pie chart shows the distribution of students based on their level of adaptation to online learning. A significant portion of students report struggling with online learning, highlighting the need for targeted support strategies.
 
 ![Adaptivity Level Pie Chart](images/project2/Pie%20Chart%20of%20Adaptivity%20Levels.png)
 
-- **IT vs. Non-IT Students:** IT students show slightly better adaptability, with an average adaptability score of 1.798 compared to 1.530 for non-IT students, though this difference is not statistically significant.
-  
+### 2. Adaptivity vs. IT Students
+This bar chart compares the adaptability scores of IT students versus non-IT students, showing that IT students have slightly better adaptability scores on average. However, this difference is not statistically significant.
+
 ![Bar Chart of Adaptivity vs. IT Student](images/project2/Bar%20Chart%20of%20Adaptivity%20vs.%20IT%20Student.png)
 
-### Adaptivity by Level of Education
-
-University students show the highest adaptability rates, likely due to greater exposure to technology and self-directed learning.
-
-![Bar Chart of Adaptivity vs. Education Level](images/project2/Bar%20Chart%20of%20Adaptivity%20vs.%20Education%20Level.png)
-
-### Institution Type and Adaptivity
-
-Non-government institutions tend to foster higher adaptability scores (1.768) compared to government institutions (1.455), suggesting they may provide better support for online learning.
+### 3. Adaptivity by Institution Type
+This bar chart displays the adaptability scores of students from government and non-government institutions, showing that students from non-government institutions have higher adaptability. This suggests that non-government institutions may provide more effective support for online learning.
 
 ![Bar Chart of Adaptivity vs. Institution Type](images/project2/Bar%20Chart%20of%20Adaptivity%20vs.%20Institution%20Type.png)
 
-### Demographic Factors and Adaptivity
-
-The multiple linear regression model identified key associations:
-- **Positive Associations:** Financial condition, use of self-directed learning management systems (Self LMS), network reliability, and class duration.
-- **Negative Associations:** Gender, device type, and education level.
-
-These relationships reflect correlation, not causation, and suggest which factors may support or hinder adaptability.
-
-## Results
-
-### Summary of Findings
-
-1. **Overall Adaptability:** A majority of students face challenges adapting to online learning, with only a small percentage highly adapted.
-2. **IT Students vs. Non-IT Students:** IT students show slightly better adaptability, though the difference is minimal.
-3. **Institution Type:** Students from non-government institutions have higher adaptability, indicating possible benefits from better resources.
-4. **Demographic Factors:** Financial condition and access to self-directed learning platforms are strongly associated with better adaptability.
-
-## Recommendations and Ethical Considerations
-
-1. **Improving Adaptability:** Increase support for non-IT students and those from government institutions.
-2. **Technology Access:** Ensure equitable access to reliable internet and devices through subsidies or loan programs.
-3. **Financial Support:** Implement aid programs for students with limited financial resources, as financial stability strongly impacts adaptability.
-
-**Ethical Considerations:**
-- Maintain strict data privacy and confidentiality.
-- Ensure interventions do not disadvantage any group and are offered equitably.
-- Collect informed consent from all participants.
-
-## Conclusion
-
-This study reveals that a majority of students face challenges in adapting to online learning. Key drivers of adaptability include financial condition, self-LMS usage, and institution type. Institutions should prioritize support for students from disadvantaged backgrounds and provide equitable access to technology to foster a more inclusive online learning environment.
+## Link to Code
+The code for this project, including exploratory data analysis and visualizations, can be found in the following Google Colab space:
+[Google Colab Link](https://colab.research.google.com/drive/1WurINPY5EXzDqjs25tY3dPj9WReEJ755)
