@@ -6,8 +6,7 @@ This project analyzes student satisfaction levels in online learning, aiming to 
 ## Tools Used
 - **Python Libraries**: Pandas, Matplotlib, Seaborn, SciPy
 - **Data Visualization**: Pie charts, bar charts
-- **Data Source**: [Survey Data](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-
-education) (CSV format)
+- **Data Source**: [Survey Data](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education) (CSV format)
 
 ## Key Findings
 1. **Adaptability Distribution**: The majority of students face challenges in adapting to online learning, with only 7.6% reporting high adaptation levels.
