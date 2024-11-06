@@ -6,7 +6,7 @@ This project focuses on predicting employee attrition using the **HR Analytics D
 ## Tools Used
 - **Python Libraries**: Pandas, NumPy, Seaborn, Matplotlib
 - **Data Visualization**: Bar chart, box plot, correlation heatmap
-- **Data Source**: [HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (CSV format)
+- **Data Source**: [HR Analytics Dataset]([https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset](https://www.kaggle.com/code/paramarthasengupta/hr-analytics-prediction-why-do-people-resign/notebook)) (CSV format)
 
 ## Key Findings
 1. **Attrition Distribution**: The dataset indicates variations in attrition rates across different departments and job roles.
