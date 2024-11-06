@@ -19,7 +19,7 @@ This project focuses on predicting employee attrition using the **HR Analytics D
 ### 1. Attrition Distribution
 This bar chart displays the distribution of attrition (whether an employee has left or stayed) across various departments and job roles. It helps visualize which areas of the organization experience higher turnover.
 
-![Attrition Distribution](images/project3/Attrition%20Distribution.png)
+![Attrition Distribution](images/project3/Attrition%20Rate%20Distribution.png)
 
 ### 2. Box Plot for Distribution Analysis
 These box plots represent the distribution of various features in the dataset, allowing us to examine the spread and variation of each variable. The box portion of the plot represents the **interquartile range (IQR)**, which spans from the 25th percentile (Q1) to the 75th percentile (Q3). The line within the box marks the **median** (50th percentile) of the data. 
@@ -28,7 +28,7 @@ Outliers, represented as individual points beyond the whiskers of the box, are d
 
 By analyzing the distribution of features such as **Age**, **Monthly Income**, and **Job Satisfaction**, we can identify potential patterns or areas requiring deeper focus to better understand the drivers of employee turnover.
 
-![Box Plot for Distribution Analysis](images/project3/Feature%20Distribution%20Boxplots.png)
+![Box Plot for Distribution Analysis](images/project3/Box%20Plot%20for%20Distribution%20Analysis.png)
 
 ### 3. Heatmap Correlation of Features
 This heatmap shows the correlation between different features in the dataset, revealing how attributes like **Job Satisfaction**, **Work-Life Balance**, and **Monthly Income** relate to attrition. Features with high correlations to attrition are key indicators that can be used to predict turnover. 
@@ -37,4 +37,4 @@ This heatmap shows the correlation between different features in the dataset, re
 
 ## Link to Code
 The code for this project, including EDA and the analysis leading to the visualizations above, can be found in the following Google Colab space:
-[Google Colab Link](https://colab.research.google.com/drive/YourColabLinkHere#scrollTo=some-id)
+[Google Colab Link](https://colab.research.google.com/drive/1v2TIcq-T3Z3O5a5E5I_TEGtJ_Tj_Fd7m)
